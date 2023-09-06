@@ -2,19 +2,15 @@
   "name": "compass-academy-tutorials-2",
   "version": "1.0.0",
   "main": "main.js",
-  "scripts": {
-    
-    
-    
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
     "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "description": ""
 }
